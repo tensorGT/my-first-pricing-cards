@@ -36,3 +36,16 @@ body {
   background-color: #e0e7ff;
   padding: 4px 12px;
   border-radius: 999px;
+  margin-bottom: 12px;
+}
+
+.page-header h1 {
+  font-size: 2.2rem;
+  line-height: 1.2;
+  margin-bottom: 12px;
+  color: #111827;
+}
+
+.subtitle {
+  color: #4b5563;
+  font-size: 1rem;

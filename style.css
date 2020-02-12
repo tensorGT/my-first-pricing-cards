@@ -88,3 +88,16 @@ body {
   font-size: 0.75rem;
   font-weight: 600;
   padding: 3px 12px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.card-top h2 {
+  font-size: 1.35rem;
+  margin-bottom: 6px;
+}
+
+.plan-desc {
+  font-size: 0.9rem;
+  color: #6b7280;
+  min-height: 44px;

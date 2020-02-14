@@ -2,3 +2,4 @@
 
 Just a practice project to learn CSS Grid and Flexbox without using Bootstrap or anything like that.
 
+## What I tried to do

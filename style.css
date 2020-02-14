@@ -114,3 +114,16 @@ body {
   gap: 4px;
 }
 
+.price .dollar {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.price .per {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: #6b7280;
+}
+
+/* dl rows inside cards */
+.card-features {

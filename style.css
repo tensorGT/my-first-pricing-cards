@@ -140,3 +140,16 @@ body {
   border-bottom: 1px solid #f3f4f6;
   font-size: 0.9rem;
 }
+
+.feature-row dt {
+  color: #4b5563;
+}
+
+.feature-row dd {
+  font-weight: 600;
+  color: #111827;
+  text-align: right;
+}
+
+/* buttons */
+.btn {

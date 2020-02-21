@@ -166,3 +166,15 @@ body {
 .btn-primary {
   background-color: #4f46e5;
   color: #ffffff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #4338ca;
+}
+
+.btn-outline {
+  background-color: #eef2ff;
+  color: #3730a3;
+}
+

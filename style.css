@@ -178,3 +178,16 @@ body {
   color: #3730a3;
 }
 
+.btn-outline:hover,
+.btn-outline:focus {
+  background-color: #e0e7ff;
+}
+
+/* comparison matrix section */
+.compare-intro {
+  text-align: center;
+  margin-bottom: 28px;
+}
+
+.compare-intro h2 {
+  font-size: 1.75rem;

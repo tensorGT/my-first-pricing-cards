@@ -191,3 +191,16 @@ body {
 
 .compare-intro h2 {
   font-size: 1.75rem;
+  margin-bottom: 6px;
+}
+
+.compare-intro p {
+  color: #6b7280;
+  font-size: 0.95rem;
+}
+
+/* note to self: do NOT put overflow: hidden here or position: sticky breaks!! */
+.matrix {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;

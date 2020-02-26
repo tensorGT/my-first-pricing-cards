@@ -204,3 +204,16 @@ body {
   background-color: #ffffff;
   border: 1px solid #e5e7eb;
   border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+}
+
+.matrix-header {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  background-color: #1f2937;
+  color: #ffffff;
+  font-weight: 600;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-radius: 11px 11px 0 0;

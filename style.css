@@ -217,3 +217,16 @@ body {
   top: 0;
   z-index: 10;
   border-radius: 11px 11px 0 0;
+}
+
+.matrix-header .matrix-cell {
+  padding: 16px;
+  text-align: center;
+}
+
+.matrix-header .feature-col {
+  text-align: left;
+}
+
+.matrix-header span {
+  display: block;

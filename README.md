@@ -6,3 +6,4 @@ Just a practice project to learn CSS Grid and Flexbox without using Bootstrap or
 - Make 3 pricing cards (Starter, Pro, Team) and highlight the Pro one
 - Use `<dl>`, `<dt>`, and `<dd>` tags for the feature lists instead of a million `<div>`s
 - Make the comparison table header stick to the top when scrolling on desktop (`position: sticky`)
+- Stack everything nicely on mobile screens

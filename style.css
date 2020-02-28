@@ -230,3 +230,16 @@ body {
 
 .matrix-header span {
   display: block;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #cbd5e1;
+}
+
+.matrix-header .popular-col {
+  background-color: #312e81;
+}
+
+.matrix-row {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr 1fr 1fr;
+  border-top: 1px solid #e5e7eb;

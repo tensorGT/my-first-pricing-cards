@@ -256,3 +256,16 @@ body {
 
 .matrix-row .feature-col {
   font-weight: 600;
+  color: #111827;
+}
+
+.matrix-row dd {
+  text-align: center;
+  color: #374151;
+}
+
+.matrix-row .popular-col {
+  background-color: rgba(79, 70, 229, 0.05);
+  font-weight: 600;
+  color: #312e81;
+}

@@ -8,3 +8,4 @@ Just a practice project to learn CSS Grid and Flexbox without using Bootstrap or
 - Make the comparison table header stick to the top when scrolling on desktop (`position: sticky`)
 - Stack everything nicely on mobile screens
 
+## Stuff I learned

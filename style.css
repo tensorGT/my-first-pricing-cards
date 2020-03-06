@@ -269,3 +269,16 @@ body {
   font-weight: 600;
   color: #312e81;
 }
+
+.page-footer {
+  text-align: center;
+  padding: 24px 20px 40px;
+  color: #6b7280;
+  font-size: 0.85rem;
+}
+
+/* tablet / mobile */
+@media (max-width: 860px) {
+  .pricing-cards {
+    grid-template-columns: 1fr;
+    max-width: 460px;

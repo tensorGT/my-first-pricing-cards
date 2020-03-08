@@ -295,3 +295,16 @@ body {
   .page-header h1 {
     font-size: 1.7rem;
   }
+
+  /* hide wide sticky header on mobile and stack each row */
+  .matrix-header {
+    display: none;
+  }
+
+  .matrix-row {
+    grid-template-columns: 1fr;
+    padding: 12px 16px;
+    gap: 6px;
+  }
+
+  .matrix-cell {

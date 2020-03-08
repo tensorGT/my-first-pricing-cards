@@ -9,3 +9,4 @@ Just a practice project to learn CSS Grid and Flexbox without using Bootstrap or
 - Stack everything nicely on mobile screens
 
 ## Stuff I learned
+- `overflow: hidden` on a parent breaks `position: sticky` (took me way too long to figure that out lol)

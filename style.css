@@ -308,3 +308,16 @@ body {
   }
 
   .matrix-cell {
+    padding: 4px 0;
+  }
+
+  .matrix-row .feature-col {
+    font-size: 1rem;
+    border-bottom: 1px solid #e5e7eb;
+    padding-bottom: 6px;
+    margin-bottom: 4px;
+  }
+
+  .matrix-row dd {
+    display: flex;
+    justify-content: space-between;

@@ -10,3 +10,4 @@ Just a practice project to learn CSS Grid and Flexbox without using Bootstrap or
 
 ## Stuff I learned
 - `overflow: hidden` on a parent breaks `position: sticky` (took me way too long to figure that out lol)
+- `data-label` + `::before` is super handy for stacking tables/grids on mobile

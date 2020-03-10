@@ -321,3 +321,16 @@ body {
   .matrix-row dd {
     display: flex;
     justify-content: space-between;
+    text-align: right;
+  }
+
+  .matrix-row dd::before {
+    content: attr(data-label);
+    font-weight: 500;
+    color: #6b7280;
+  }
+
+  .matrix-row .popular-col {
+    background-color: transparent;
+  }
+}

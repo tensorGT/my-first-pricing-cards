@@ -6,10 +6,15 @@
 }
 
 body {
-  font-family: 'Poppins', Arial, sans-serif;
+  font-family: 'Comic Neue', 'Comic Sans MS', cursive, sans-serif;
   background-color: #f4f6fb;
   color: #1f2937;
   line-height: 1.6;
+}
+
+h1, h2, .price {
+  font-family: 'Fredoka One', cursive, sans-serif;
+  letter-spacing: 0.3px;
 }
 
 .container {
